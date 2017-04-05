@@ -1,24 +1,18 @@
-# Basic
-title: 潘柏信
+﻿# Basic
+title: 张晖
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: nolan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
-
-# Comment
-comment:
-    # disqus: leopard
-    duoshuo: leopard 
+avatarDesc: 数据结构/机器学习
+#url: "http://baixin.io"
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    github: alphtalk
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: alphtalk@gmail.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -33,10 +27,7 @@ ga:
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
